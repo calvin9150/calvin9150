@@ -1,4 +1,4 @@
-<div align="center">
+
 <!--
 **calvin9150/calvin9150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&text=W.B.+JANG&section=header&fontSize=90&animation=blinking)
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin9150&hide=html,PLSQL,SCSS,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin9150)](https://github.com/anuraghazra/github-readme-stats)
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 </div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
+
