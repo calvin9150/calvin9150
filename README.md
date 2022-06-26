@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&fontColor=FEFEFE&color=timeAuto&height=230&section=header&text=W.B. JANG&fontSize=50&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=timeAuto&height=300&text=W.B.JANG&section=header&text=capsule%20render&fontSize=90)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin9150&hide=html,PLSQL,SCSS,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
