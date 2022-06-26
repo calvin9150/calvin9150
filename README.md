@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin9150&hide=html,PLSQL,SCSS,CSS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvin9150&hide=html,PLSQL,SCSS,CSS&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvin9150)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 </div>
 
   
